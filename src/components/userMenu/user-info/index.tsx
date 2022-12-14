@@ -20,7 +20,7 @@ const UserInfo = () => {
                         <span className="userInfo__social-value">instagram_example</span>
                     </li>
                     <li className="userInfo__social-item">
-                        <WhatsAppIcon className="userInfo__social-icon" href="#" />
+                        <WhatsAppIcon className="userInfo__social-icon" />
                         <span className="userInfo__social-value">(xx) xxxxx-xxxx</span>
                     </li>
                     <li className="userInfo__social-item">

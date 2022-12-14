@@ -1,3 +1,11 @@
+.addCliente {
+    padding: 0.5rem;
+    position: absolute;
+    top: -4rem;
+    left: 93%;
+    color: #5f1a1a;
+}
+
 .clientes {
     display: flex;
     flex-direction: column;
