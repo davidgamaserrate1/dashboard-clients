@@ -7,9 +7,10 @@ import Dashboard from "./dashboard";
 const App = () => {
     return (
         <div className="app">
+            < Dashboard />
             <Cabecalho />
             < UserMenu />
-            < Dashboard />
+
         </div>
     )
 }

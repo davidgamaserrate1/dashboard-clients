@@ -1,6 +1,6 @@
 .user-menu {
     background: rgb(84, 123, 196);
-    position: sticky;
+    justify-content: center;
     display: flex;
     flex-direction: column;
     margin: 1rem 1rem;

@@ -1,4 +1,4 @@
-.dashboard {
+/* .dashboard {
     background-color: #494197;
     position: absolute;
     width: 79.42vw;
@@ -6,6 +6,23 @@
     left: 19.22vw;
     height: 86vh;
     margin: 0;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+} */
+
+
+.dashboard {
+    background-color: #e1e0e7;
+    position: absolute;
+    top: 12rem;
+    right: 3vh;
+    height: 70vh;
+    width: calc(100% - 24.8rem);
+    padding: 0;
 
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
