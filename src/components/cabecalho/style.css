@@ -1,0 +1,45 @@
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    background: rgb(84, 123, 196);
+    margin-left: 23rem;
+    position: absolute;
+
+    padding: 1.5rem 1.5rem;
+    position: absolute;
+    height: 3vh;
+    width: 77vw;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+
+}
+
+.menu {
+    display: flex;
+
+}
+
+.menu__search {
+    position: absolute;
+    margin-left: 5px;
+    color: #FFFFFF;
+    border: #000000;
+    border-radius: 3px;
+
+}
+
+.menu__input {
+    position: relative;
+    margin: 0;
+    height: 25px;
+    width: 300px;
+    justify-content: center;
+    border: #000000;
+    border-radius: 3px;
+
+
+}

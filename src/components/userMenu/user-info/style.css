@@ -1,22 +1,51 @@
-.user-info {
+.userInfo {
     height: 90vh;
     text-transform: uppercase;
     position: relative;
     margin: 0;
 }
 
-.user-info__pic {
+.userInfo__pic {
     width: 200px;
 }
 
-.user-info__name {
+.userInfo__name {
     font-family: 'Titillium Web', sans-serif;
     color: #FFFFFF;
 }
 
 .user-menu__imgBottom {
+    background: url('../../../assets/img/bottom-img.webp') no-repat;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+.userInfo__options {
+    text-align: start;
+    padding: 1.2rem;
+    display: inline;
+
+
+}
+
+.userInfo__social-icon {
+    list-style-type: none;
+    color: #FFFFFF;
+    display: inline;
+
+}
+
+.userInfo__social-item {
+    margin-top: 30px;
+}
+
+.userInfo__social-value {
+    text-align: center;
+    margin-top: 0.25rem;
+    margin-left: 0.25rem;
+    position: absolute;
+    color: #FFFFFF;
+
 }

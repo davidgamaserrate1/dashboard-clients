@@ -11,7 +11,8 @@ const UserMenu = () => {
 
             <UserInfo />
             {/* <img className="menu__imgLine" src={line} /> */}
-            <img className="user-menu__imgBottom" src={bottomImg} />
+            {/* <img className="user-menu__imgBottom" src={bottomImg} /> */}
+            <div className="user-menu__imgBottom"> a </div>
         </nav>
     )
 }

@@ -1,0 +1,15 @@
+.dashboard {
+    background-color: #494197;
+    position: absolute;
+    width: 79.42vw;
+    top: 11vh;
+    left: 19.22vw;
+    height: 86vh;
+    margin: 0;
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
