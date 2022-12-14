@@ -1,11 +1,15 @@
 import React from "react";
 import './style.css'
+import Clientes from "./clientes";
 
 const Dashboard = () => {
     return (
+
         <div className="dashboard">
-            a
+            <Clientes />
         </div>
+        // <button>next</button>
+
     )
 }
 

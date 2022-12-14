@@ -16,8 +16,10 @@
 
 
 .dashboard {
+    display: flex;
     background-color: #e1e0e7;
     position: absolute;
+    flex-wrap: wrap;
     top: 12rem;
     right: 3vh;
     height: 70vh;

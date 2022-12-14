@@ -1,5 +1,6 @@
 .user-menu {
     background: rgb(84, 123, 196);
+    /*  */
     justify-content: center;
     display: flex;
     flex-direction: column;
@@ -12,14 +13,12 @@
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
-
 }
 
 .menu__imgLine {
     position: relative;
     mix-blend-mode: multiply;
     display: block;
-
 }
 
 .user-info__bottomImg {
