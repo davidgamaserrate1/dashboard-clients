@@ -1,28 +1,46 @@
-.addCliente {
+/* .addCliente {
     padding: 0.5rem;
     position: absolute;
     top: -4rem;
     left: 93%;
-    color: #5f1a1a;
+    color: #ffaebf;
+} */
+.addCliente {  
+    justify-content: center;   
+    margin: 0;
+
+    width:75px;
+    height: 65px;
+    top: -3.5rem;    
+    margin-top: -20px;
+    right: 10rem;
+    position: absolute;
+    color: #ffaebf;   
+     
+     
 }
 
 .clientes {
+    
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     width: 100%;
     height: 90%;
-    background: #d3c4c4;
+    background: #fce4fc;
     margin: 1rem;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+    font-family: saira;
 }
 
 .cliente {
-    color: #FFFFFF;
-    background: #5f1a1a;
+    font-family: 'Saira', sans-serif;;
+    color: #000000;
+    /* background: rgb(15, 13, 59); */
+    background: #ffaebf;
     margin: 1rem;
     padding: 1rem;
     height: 33.33%;
@@ -31,25 +49,45 @@
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+
+    
 }
 
 .cliente__info {
+    
+    margin: 0;
+   
+    display: flex;
     text-align: left;
+    width: 200px;
+    
+    flex-direction: column;
+    
 }
 
+ 
+ 
 .cliente__name {
     margin: 0.52rem;
-}
+  
+    
+}    
 
 .cliente__telefone {
     margin: 0.52rem;
+   
+}
+.cliente__instagram{
+    margin: 0.52rem;
+    
+}
+.cliente__organizacao{
+    margin: 0.52rem;
+   
 }
 
-.cliente__img {
-    text-align: center;
-    width: 100px;
-    height: 100px;
-}
+ 
+ 
 
 /* .cliente__name {}
 

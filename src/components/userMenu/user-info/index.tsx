@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css'
 
-import userPic from '../../../assets/img/user.png'
+import userPic from '../../../assets/img/user.jpeg'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import EmailIcon from '@mui/icons-material/Email';

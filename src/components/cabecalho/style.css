@@ -1,18 +1,17 @@
 .cabecalho {
     display: flex;
-    justify-content: center;
-    background: rgb(84, 123, 196);
+    justify-content: center;     
+    /* background: rgb(15, 13, 59); */
+    background: #fce4fc;
     position: absolute;
     padding: 1.5rem 1.5rem;
     left: 23rem;
     height: 3vh;
     width: 77vw;
-
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
-
 
 }
 
@@ -22,12 +21,9 @@
 }
 
 .menu__search {
-    position: absolute;
+    position: absolute;     
     margin-left: 5px;
-    color: #FFFFFF;
-    border: #000000;
-    border-radius: 3px;
-
+    color: #000000;   
 }
 
 .menu__input {
@@ -36,8 +32,8 @@
     height: 25px;
     width: 300px;
     justify-content: center;
-    border: #000000;
-    border-radius: 3px;
-
+    border: none;
+    border-radius: 13px;
+    text-align: center;
 
 }

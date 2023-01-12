@@ -1,5 +1,6 @@
 .user-menu {
-    background: rgb(84, 123, 196);
+    /* background: rgb(84, 123, 196); */
+    background: #fce4fc;
     /*  */
     justify-content: center;
     display: flex;

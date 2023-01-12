@@ -17,14 +17,15 @@
 
 .dashboard {
     display: flex;
-    background-color: #e1e0e7;
+    background: #fce4fc;
     position: absolute;
     flex-wrap: wrap;
     top: 12rem;
-    right: 3vh;
+    
+    right: 2vh;
     height: 70vh;
     width: calc(100% - 24.8rem);
-    padding: 0;
+    
 
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;

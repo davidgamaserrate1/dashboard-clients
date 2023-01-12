@@ -7,9 +7,7 @@ const Cabecalho = () => {
     return (
         <header className="cabecalho">
             <nav className="menu">
-
                 <label className="menu__label">
-
                     <input className="menu__input" type="text" id="searchUser" name="search" placeholder="Pesquisar"></input>
                     <SearchIcon className="menu__search" />
                 </label>

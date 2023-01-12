@@ -92,7 +92,7 @@ video {
   vertical-align: baseline;
 }
 
-/* HTML5 display-role reset for older browsers */
+
 article,
 aside,
 details,
@@ -109,9 +109,10 @@ section {
 
 body {
   line-height: 1;
-  background: #f9f9f9;
-  /* background: rgb(63, 94, 251); */
-  /* background: linear-gradient(129deg, rgba(63, 94, 251, 1) 0%, rgba(101, 86, 237, 1) 33%, rgba(142, 84, 233, 1) 42%, rgba(161, 82, 229, 1) 64%, rgba(205, 76, 219, 1) 75%, rgba(252, 70, 208, 0.7399160347732843) 100%); */
+  /* background: #f9f9f9; */
+   
+  background: #ffaebf
+  /* background: linear-gradient(90deg, rgba(2,0,36,1) 10%, rgba(13,38,36,0.940688775510204) 53%, rgba(0,212,255,1) 100%); */
 }
 
 ol,
